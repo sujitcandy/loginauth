@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598709046235",
+    "firebase_url": "https://loginpageauth-c29a4.firebaseio.com",
+    "project_id": "loginpageauth-c29a4",
+    "storage_bucket": "loginpageauth-c29a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598709046235:android:66078123a1cf9bcc4175fe",
+        "android_client_info": {
+          "package_name": "com.demoassign.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598709046235-bse17s53t7a5cc96rnocte033afsmomo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvVwEB9NFs_WlK6wlFl8fcWlxQXpSWUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598709046235-bse17s53t7a5cc96rnocte033afsmomo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
